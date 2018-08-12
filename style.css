@@ -1,12 +1,14 @@
 body{
-  font-size: 16px;
-  background: #ffffff;
-  color: #000000;
-  text-align: left;
+  font-family: monospace;
+  font-size: 46px;
+  background: cyan;
+  color: black
+  text-align: centre;
+  margin-left: 40px;
 }
 
 @media only screen and (max-width: 600px) {
-  
+
 body{
    background-color: #ffffff;
   }
